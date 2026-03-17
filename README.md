@@ -17,3 +17,4 @@ Skills section
 Contact information
 
 Responsive design
+<img width="700" height="760" alt="image" src="https://github.com/user-attachments/assets/95274226-0106-448d-8345-a510c9434422" />
